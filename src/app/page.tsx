@@ -1,6 +1,6 @@
 const Page = async () => {
   return (
-    <div className="w-full h-full overflow-hidden">
+    <div className="w-full h-full overflow-x-hidden">
       <div className="h-screen mx-auto max-w-[800px] shadow-sm pt-20 px-3">
         <h1 className="text-2xl font-light">
           Как заработать с рефералки т-банка?
